@@ -1,0 +1,9 @@
+{
+  "include": ["Backend/app"],
+  "exclude": ["**/venv", "**/__pycache__"],
+  "venvPath": "Backend",
+  "venv": "venv",
+  "pythonVersion": "3.13",
+  "extraPaths": ["Backend"],
+  "reportMissingTypeStubs": "none"
+}
